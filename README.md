@@ -1,4 +1,4 @@
-#  Garbage Classification Project
+#  Garbage Classification System
 
 ##  Project Overview
 This project uses a Convolutional Neural Network (CNN) to classify garbage images into 6 categories:  
